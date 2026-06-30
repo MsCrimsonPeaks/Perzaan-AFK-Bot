@@ -17,10 +17,6 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "Perzuu"
-    },
     "anti-afk": {
       "enabled": true,
       "sneak": true
@@ -66,7 +62,7 @@
     "combat": true,
     "beds": true,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
